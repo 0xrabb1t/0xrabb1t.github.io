@@ -8,10 +8,10 @@ tags: [troubleshooting]
 
 
 1. Open "Disks"
- 
+<a href="https://raw.githubusercontent.com/0xrabbitSec/0xrabbitSec.github.io/main/_posts/images/fixErrorMounting-images/image01.png"><img src="https://raw.githubusercontent.com/0xrabbitSec/0xrabbitSec.github.io/main/_posts/images/fixErrorMounting-images/image01.png" height="800" width="950"></a>
 
 2. Then disable `User sesssion defaults` and press OK
-
+<a href="https://raw.githubusercontent.com/0xrabbitSec/0xrabbitSec.github.io/main/_posts/images/fixErrorMounting-images/image02.png"><img src="https://raw.githubusercontent.com/0xrabbitSec/0xrabbitSec.github.io/main/_posts/images/fixErrorMounting-images/image02.png" height="800" width="950"></a>
  
 
 
