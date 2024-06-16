@@ -9,11 +9,11 @@ tags: [linux]    # TAG names should always be lowercase
 
 ## Open "Disks"
 
-![image01](_posts/images/fixErrorMounting-images/image01.png)
+![image01](images/02/image01.png))
 
 ## Then disable `User sesssion defaults` and press OK
 
- ![image02](_posts/images/fixErrorMounting-images/image012.png)
+ ![image02](/images/02/image02.png)
 
 
 ## finally execute
