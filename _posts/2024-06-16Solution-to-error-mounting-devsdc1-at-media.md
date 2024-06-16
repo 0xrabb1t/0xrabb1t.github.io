@@ -1,20 +1,24 @@
 ---
 title: Fix error in mounting
-date: '2024-06-16 15:41:59'
+date: '2024-06-15 11:17:32'
+comments: true
 categories: [tips]
-tags: [linux]    # TAG names should always be lowercase
+tags: [workflow]
 ---
-
+ 
 # Solution
 
 ## Open "Disks"
-
-![image01](images/02/image01.png))
+ ![image01](assets/img/posts/image01.png)
+ 
 
 ## Then disable `User sesssion defaults` and press OK
-
- ![image02](/images/02/image02.png)
-
+![image01](assets/img/posts/image02.png)
+ 
+ 
 
 ## finally execute
-`$ systemctl daemon-reload`
+```bash
+$ systemctl daemon-reload
+```
+ 
