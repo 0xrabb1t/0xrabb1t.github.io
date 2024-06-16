@@ -1,6 +1,6 @@
 ---
 title: Fix error in mounting
-date: '2024-06-15 11:17:32'
+date: '2024-06-16 11:17:32'
 comments: true
 categories: [tips]
 tags: [workflow]
