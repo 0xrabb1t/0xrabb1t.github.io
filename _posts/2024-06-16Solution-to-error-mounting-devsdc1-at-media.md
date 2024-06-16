@@ -1,7 +1,7 @@
 ---
-title: Fix errors - solution to error mounting /dev/sdc1 at /media/
+title: Fix errors - solution to error mounting  dev sdc1 at  media 
 date: '2024-06-16 15:41:59'
-comments: false
+comments: true
 categories: [Ubuntu]
 tags: [troubleshooting]
 ---
