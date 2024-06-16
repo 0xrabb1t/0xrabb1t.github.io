@@ -1,20 +1,19 @@
 ---
-title: Fix errors - solution to error mounting  dev sdc1 at  media 
+title: Fix error in mounting
 date: '2024-06-16 15:41:59'
-comments: true
-categories: [Ubuntu]
-tags: [troubleshooting]
+categories: [tips]
+tags: [linux]    # TAG names should always be lowercase
 ---
 
 # Solution
 
 ## Open "Disks"
 
-![image01](https://raw.githubusercontent.com/0xrabbitSec/0xrabbitSec.github.io/main/_posts/images/fixErrorMounting-images/image01.png)
+![image01](_posts/images/fixErrorMounting-images/image01.png)
 
 ## Then disable `User sesssion defaults` and press OK
 
- ![image02](https://raw.githubusercontent.com/0xrabbitSec/0xrabbitSec.github.io/main/_posts/images/fixErrorMounting-images/image02.png)
+ ![image02](_posts/images/fixErrorMounting-images/image012.png)
 
 
 ## finally execute
